@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="driverFactory.DriverScript"/>
+      <class name="config.AppUtil"/>
+      <class name="commonFunctions.FunctionLibrary"/>
+      <class name="utilities.ExcelFileUtil"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="driverFactory.DriverScript">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="startTest"/>
+        </methods>
+      </class> <!-- driverFactory.DriverScript -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows in Master TCS sheet::4     No of rows in Teststep sheet::10]]>
+    </line>
+    <line>
+      <![CDATA[Login Success::adminflow    http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[New Branch with id 393 created Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout Success]]>
+    </line>
+  </reporter-output>
+  <suite name="HybridFramework" duration-ms="32770" started-at="2023-03-06T05:17:14Z" finished-at="2023-03-06T05:17:47Z">
+    <groups>
+    </groups>
+    <test name="PrimusBankTest" duration-ms="32770" started-at="2023-03-06T05:17:14Z" finished-at="2023-03-06T05:17:47Z">
+      <class name="driverFactory.AppTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:driverFactory.AppTest@6093dd95]" name="setUp" is-config="true" duration-ms="5587" started-at="2023-03-06T05:17:09Z" finished-at="2023-03-06T05:17:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:driverFactory.AppTest@6093dd95]" name="startTest" duration-ms="32726" started-at="2023-03-06T05:17:14Z" finished-at="2023-03-06T05:17:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows in Master TCS sheet::4     No of rows in Teststep sheet::10]]>
+            </line>
+            <line>
+              <![CDATA[Login Success::adminflow    http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[New Branch with id 393 created Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:driverFactory.AppTest@6093dd95]" name="tearDown" is-config="true" duration-ms="790" started-at="2023-03-06T05:17:47Z" finished-at="2023-03-06T05:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- PrimusBankTest -->
+  </suite> <!-- HybridFramework -->
+</testng-results>
