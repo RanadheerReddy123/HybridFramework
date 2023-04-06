@@ -33,5 +33,35 @@
 	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/lib/testng-6.9.9.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/lib/testng-6.14.3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mps/Downloads/Selenium/Selenium/lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
